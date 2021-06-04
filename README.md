@@ -102,7 +102,7 @@ lightning of the growth chamber.
 
 ### The camera setup
 
-![ChronoRoot camera setup](images/PlateSupport.png)
+![ChronoRoot camera setup](images/CameraSetup.png)
 
 (Left) annotated 3D rendering; (middle) camera on a module carrying a filter;
 (right) camera on a module without the filter. A Raspberry Pi NoIR V2 module is
